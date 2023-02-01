@@ -11,15 +11,11 @@
 
 - 🤝 I’m looking for help with **Health focused Programs**
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
-
-- 📝 I regularly write articles on [WIP](WIP)
+- 👨‍💻 All of my projects are available at Github
 
 - 💬 Ask me about **jQuery and REACT**
 
 - 📫 How to reach me **BalajiSathiya12@gmail.com**
-
-- 📄 Know about my experiences [WIP](WIP)
 
 - ⚡ Fun fact **I believe Coding is a form of Art.**
 
